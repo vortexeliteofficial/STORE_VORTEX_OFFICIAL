@@ -4,7 +4,7 @@ Welcome to the Vortex Store Official project! This is an automatic game top-up s
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features](#index.html)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
